@@ -1,0 +1,8 @@
+#spring-boot-starter-application config
+#
+
+spring:
+  name: Default-YAML
+  profiles:
+    active: default
+
